@@ -1,0 +1,26 @@
+﻿  Source.cpp
+F:\opengl_projects\raycasting\RayCasting\RayCasting\shaderTools.h(63,15): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\shaderTools.h(64,21): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(15,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :  参见“strcpy”的声明
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(17,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  参见“strtok”的声明
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(21,1): warning C4996:  'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(440): message :  参见“strtok”的声明
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(38,23): warning C4244:  “参数”: 从“double”转换到“_Ty”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(38,23): warning C4244:         with
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(38,23): warning C4244:         [
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(38,23): warning C4244:             _Ty=float
+F:\opengl_projects\raycasting\RayCasting\RayCasting\reader.h(38,23): warning C4244:         ]
+F:\opengl_projects\raycasting\RayCasting\RayCasting\texture.h(9,13): warning C4101:  “height”: 未引用的局部变量
+F:\opengl_projects\raycasting\RayCasting\RayCasting\texture.h(9,6): warning C4101:  “width”: 未引用的局部变量
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(152,24): warning C4018:  “<”: 有符号/无符号不匹配
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(181,11): warning C4244:  “=”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(182,11): warning C4244:  “=”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(186,18): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(187,18): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(188,10): warning C4244:  “=”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(189,10): warning C4244:  “=”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(215,28): warning C4244:  “-=”: 从“double”转换到“GLfloat”，可能丢失数据
+F:\opengl_projects\raycasting\RayCasting\RayCasting\Source.cpp(226,23): warning C4244:  “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  RayCasting.vcxproj -> F:\opengl_projects\raycasting\RayCasting\Debug\RayCasting.exe
